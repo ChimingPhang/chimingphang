@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1
+  uses: https://github-readme-stats.vercel.app/api?username=chimingphang
