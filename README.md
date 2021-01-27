@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- name: Profile Readme Stats
-  uses: https://github-readme-stats.vercel.app/api?username=chimingphang
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chimingphang)](https://github.com/anuraghazra/github-readme-stats)
